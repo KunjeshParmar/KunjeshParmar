@@ -1,0 +1,6 @@
+print("Hi, What is your name?")
+n=str(input())
+print("Good to meet you Mr.",n)
+print("Can u give me your contact number to me Mr.",n)
+c=int(input())
+print("Thanks, can u plz validate your number, your number is",c,".")
